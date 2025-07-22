@@ -1,1 +1,1 @@
-web: python main.py
+echo "web: python main.py" > Procfile
